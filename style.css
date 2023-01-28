@@ -54,3 +54,10 @@ button {
 #save-el {
   font-weight: bold;
 }
+
+footer {
+  margin: 10px auto;
+  display: flex;
+
+  justify-content: center;
+}
